@@ -1,5 +1,5 @@
 # kubernetes-gitlab
-前置作業
+## 前置作業
 1. 安裝 metalLB
 2. 安裝 local-path  CSI
 
