@@ -41,4 +41,4 @@ git clone https://github.com/cooloo9871/kubernetes-gitlab.git;cd kubernetes-gitl
 ```
 kubectl apply -f gitlab-ee/gitlab-ee.yaml
 ```
-123
+
